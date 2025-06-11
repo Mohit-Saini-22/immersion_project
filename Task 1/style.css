@@ -1,0 +1,12 @@
+
+
+#outer{
+    height: 10px;
+    border: 1px solid black;
+}
+
+#inner{
+    height: 100%;
+    width: 0;
+    background-color: green;
+}
